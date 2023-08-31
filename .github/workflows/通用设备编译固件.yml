@@ -193,9 +193,9 @@ jobs:
             ### OpenWrt Image information
             - Default IP: 192.168.1.1
             - Default username: root
-            - Default password: password
+            - Default password: root
             - Default WIFI name: OpenWrt
-            - Default WIFI password: none
+            - Default WIFI password: 12345678
             ### Install to EMMC
             - Login to OpenWrt → System → Amlogic Service → Install OpenWrt
             ### OpenWrt Image Verification
