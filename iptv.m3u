@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://epg.51zmt.top:8001/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
+http://123.149.238.49:9003/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
+http://livealiop-child.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺
+http://hbhyjq.ufyct.com:1088/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://ak6668768.zicp.io:8803/live1004.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
+http://livealiop-child.cctv.cn/hls/CCTV53bc308eb3d5646f49391875b23269073H/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+http://livealiop-child.cctv.cn/hls/CCTV54d61bd11c9a343b782b3381a3c3f6540H/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
+http://hbhyjq.ufyct.com:1088/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
+http://livealiop-child.cctv.cn/hls/CCTV14590796cc29774ad2a85b97206cc79fe8H/playlist.m3u8
